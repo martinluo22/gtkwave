@@ -1,4 +1,4 @@
-1) Type ./configure
+1) Type ./configure --disable-tcl
 2) make
 3) make install (as root)
 
